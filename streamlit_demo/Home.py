@@ -3,8 +3,8 @@ import pandas as pd
 
 st.title("Mapping MooLAH")
 st.write("Uncovering Spending Patterns and Customer Segments for Targeted Marketing")
-st.write("Sprint 1 Project
-Group 5 - Sinigang")
+st.write("Sprint 1 Project")
+st.write("Group 5 - Sinigang")
 
 
 def introduction():
